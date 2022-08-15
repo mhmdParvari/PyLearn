@@ -2,6 +2,7 @@ import random
 import numpy as np
 import cv2 as cv
 
+########## 1 ########
 img1 = cv.imread('assets/a.tif')
 img2 = cv.imread('assets/b.tif')
 result = cv.subtract(img2, img1)
