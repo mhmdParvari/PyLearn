@@ -50,7 +50,7 @@ cv.imwrite('highW.jpg',reduce_noise(images))
 
 ########## 5 #########
 img1 = cv.imread('assets/ostad.jpg', 0)
-img2 = cv.imread('assets/tiger.jpg', 0)
+img2 = cv.imread('assets/linus.jpg', 0)
 img2 = cv.resize(img2,(640,640))
 merge1 = img1//10*6 + img2//10*4
 merge2 = img2//10*6 + img1//10*4
