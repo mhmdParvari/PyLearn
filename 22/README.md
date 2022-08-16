@@ -8,7 +8,7 @@
 ## 4
 ![highW](https://user-images.githubusercontent.com/103634638/184725951-3e71d3f6-7266-4563-a6ac-ca33bcf6edd7.jpg)
 ## 5
-![z](https://user-images.githubusercontent.com/103634638/184725979-a345ae56-776b-4e16-a957-f6184a6cd80b.jpg)
+![za](https://user-images.githubusercontent.com/103634638/184873225-1b3710cd-337e-4473-829a-a74abdd0e010.jpg)
 ## 6
 ![ask](https://user-images.githubusercontent.com/103634638/184726024-200695aa-e7eb-45a5-8396-d26cfb6a0d49.jpg)
 ## 7
