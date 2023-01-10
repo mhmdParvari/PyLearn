@@ -1,4 +1,4 @@
-## 1- 1 Blurry background
+## 1- Blurry background
 ### makes the background of the following picture blurry
 
 ![flower_input](https://user-images.githubusercontent.com/103634638/210665659-c7b1e6e0-369c-4bb5-a20a-8d3749ca338d.jpg)
