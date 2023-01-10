@@ -23,7 +23,7 @@
 ![p3](https://user-images.githubusercontent.com/103634638/211431143-601c339c-a7e8-4ce9-9b2e-e4bc33b8c5b2.jpg)
 ![p4](https://user-images.githubusercontent.com/103634638/211431153-6b5b8878-21a1-4719-a689-05ee6b83024c.jpg)
 
-## 5-
-### black and white color detector
+## 5- Color detector
+### detects black and white
 https://user-images.githubusercontent.com/103634638/211431364-931af221-4051-4b7e-9b2a-f4ba2d8860c5.mp4
 
