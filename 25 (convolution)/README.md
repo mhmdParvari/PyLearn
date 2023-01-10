@@ -5,7 +5,7 @@
 ![flower_js](https://user-images.githubusercontent.com/103634638/210665686-212ad2ee-1cf6-4ebe-8548-2484a18506cb.jpg)
 
 ## 2- Edge detection
-### subtracts (each pixel)*4 from the sum of its above, below, left and right pixels. so the pixels in an area (non edge pixels) get black and the edge pixels turn to something other than black
+### subtracts [(each pixel)*4] from the sum of its above, below, left and right pixels. so the pixels in an area (non edge pixels) get black and the edge pixels turn to something other than black
 ![lion](https://user-images.githubusercontent.com/103634638/210901730-29003c8f-8bc6-4960-b3eb-bb4db19c774b.png)
 ![j](https://user-images.githubusercontent.com/103634638/210901819-a4aff300-dbdb-4306-bc4f-56e1215b7e54.jpg)
 
