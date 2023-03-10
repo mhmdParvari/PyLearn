@@ -13,7 +13,7 @@ Give this program any image and it will apply snowing effect on it and deliver a
 ![magif](https://user-images.githubusercontent.com/103634638/224390383-3322045f-f5eb-40ae-a839-8dd6cab791a1.gif)
 ---
 ## 3) Mr.Bean
-Adds noise to and then clears it from the Mr.Bean picture.
+Adds noise to and then clears it from the Mr.Bean picture.  
 And rotates it so that he keeps staring at you less freaky. (or maybe even more)
 
 ![lukame](https://user-images.githubusercontent.com/103634638/224391978-31df2508-409d-431c-b1dc-3d070ff9fc9f.jpg)
