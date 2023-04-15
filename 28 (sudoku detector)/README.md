@@ -10,7 +10,7 @@ Forexample if we provide it with the image I used in the notebook file (sudoku_d
 ![liqu](https://user-images.githubusercontent.com/103634638/232248420-8da6aa6c-8288-410f-ab2e-6df5aa1a22a5.jpg)  
 ---
 ## Sudoku_detector_video.py
-Detects sudoku table through webcam
+Detects sudoku table through the webcam
 
 https://user-images.githubusercontent.com/103634638/232249258-a1bc65ad-ef05-4e2a-ba1b-a40a65b8a4b8.mp4  
 
